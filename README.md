@@ -16,6 +16,9 @@
 . PostgreSQL
 . Tableau
 
+Название проекта | Сферы деятельности компаний  | Навыки и иструменты | Задачи проекта
+
+
 
 <!--
 **nata031086/nata031086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
